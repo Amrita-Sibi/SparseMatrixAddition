@@ -203,59 +203,59 @@
 
 
 
-OUTPUT :
-
-Enter row limit of a :3
-Enter row limit of b :3
-Enter column limit of a :3
-Enter column limit of b :3
-Enter the elements of A :
-0
-6
-6
-1
-0
-0
-2
-0
-0
-Enter the elements of B :
-1
-2
-3
-0
-0
-0
-2
-0
-0
-Matrix A :
-0    6    6    
-1    0    0    
-2    0    0    
-
-Matrix B :
-1    2    3    
-0    0    0    
-2    0    0    
-Tuplet form of A :
-3    3    4    
-0    1    6    
-0    2    6    
-1    0    1    
-2    0    2    
-Tuplet form of B :
-3    3    4    
-0    0    1    
-0    1    2    
-0    2    3    
-2    0    2    
-Sum of matrix a and b :
-3    3    5    
-0    0    1    
-0    1    8    
-0    2    9    
-1    0    1    
-2    0    4    
+		OUTPUT :
+		
+		Enter row limit of a :3
+		Enter row limit of b :3
+		Enter column limit of a :3
+		Enter column limit of b :3
+		Enter the elements of A :
+		0
+		6
+		6
+		1
+		0
+		0
+		2
+		0
+		0
+		Enter the elements of B :
+		1
+		2
+		3
+		0
+		0
+		0
+		2
+		0
+		0
+		Matrix A :
+		0    6    6    
+		1    0    0    
+		2    0    0    
+		
+		Matrix B :
+		1    2    3    
+		0    0    0    
+		2    0    0    
+		Tuplet form of A :
+		3    3    4    
+		0    1    6    
+		0    2    6    
+		1    0    1    
+		2    0    2    
+		Tuplet form of B :
+		3    3    4    
+		0    0    1    
+		0    1    2    
+		0    2    3    
+		2    0    2    
+		Sum of matrix a and b :
+		3    3    5    
+		0    0    1    
+		0    1    8    
+		0    2    9    
+		1    0    1    
+		2    0    4    
 
 
